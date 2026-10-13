@@ -32,7 +32,7 @@
 
 # 
 
-# \## 3. Python
+# \3. Python
 
 # 使用 conda 管理Python环境
 
